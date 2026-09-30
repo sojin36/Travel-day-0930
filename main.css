@@ -136,3 +136,10 @@ footer p{
     border-radius: 10px;
     margin-bottom: 20px;
 }
+section .buttton2{
+    background-color: rgb(21, 206, 197);
+    padding: 12px 24px;
+    color: rgb(239, 238, 240);
+    border-radius: 8px;
+    display: inline-block;
+}
